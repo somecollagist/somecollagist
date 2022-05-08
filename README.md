@@ -2,5 +2,5 @@
 
 Hey, I'm Johann .-.<br>
 
- - somecollagist.github.io
+ - https://somecollagist.github.io
  - scott@proleindustries.com
